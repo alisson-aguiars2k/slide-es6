@@ -17,4 +17,4 @@
 
 ![](./assets/images/slider-es6.jpg)
 
-### [Slider ES6]https://alisson-aguiars2k.github.io/slide-es6/) 🔗
+### [Slider ES6](https://alisson-aguiars2k.github.io/slide-es6/) 🔗
